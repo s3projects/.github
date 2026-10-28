@@ -5,7 +5,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Verified%20Domain-10B981?style=for-the-badge&logo=github)](https://github.com/s3projects)
 [![Website](https://img.shields.io/badge/Portal-s3projects.com.br-0ea5e9?style=for-the-badge&logo=google-chrome)](https://s3projects.com.br)
-[![Compliance](https://img.shields.io/badge/Compliance-CREA%20%7C%20ANEEL%20%7C%20ONS-amber?style=for-the-badge)](https://s3projects.com.br/#engenharia)
+[![Compliance](https://img.shields.io/badge/Compliance-ANEEL%20%7C%20ONS-amber?style=for-the-badge)](https://s3projects.com.br/#engenharia)
 [![Experience](https://img.shields.io/badge/Experi%C3%AAncia-%2B24%20Anos%20(Desde%202002)-purple?style=for-the-badge)](https://s3projects.com.br)
 
 <br/>
@@ -58,5 +58,5 @@ Nossas operações combinam simulação avançada de fluxo de potência, rigoros
 ---
 
 <div align="center">
-<sub>© 2002–2026 S3 Projects Consultoria e Engenharia Ltda. Todos os direitos reservados. CREA / ANEEL / ONS Compliant.</sub>
+<sub>© 2002–2026 S3 Projects Consultoria e Engenharia Ltda. Todos os direitos reservados.  ANEEL / ONS Compliant.</sub>
 </div>
